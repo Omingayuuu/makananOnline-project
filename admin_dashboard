@@ -1,0 +1,38 @@
+import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class admin_dashboard {
+    private JPanel panel1;
+    private JButton btnLihatRestoran;
+    private JButton btnTambahRestorant;
+    private JButton btnHapusRestorant;
+    private JButton btnLogout;
+    private JTextField dashboardAdminTextField;
+public admin_dashboard() {
+    btnLihatRestoran.addActionListener(new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+
+        }
+    });
+    btnTambahRestorant.addActionListener(new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+
+        }
+    });
+    btnHapusRestorant.addActionListener(new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+
+        }
+    });
+    btnLogout.addActionListener(new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent e) {
+
+        }
+    });
+}
+}
