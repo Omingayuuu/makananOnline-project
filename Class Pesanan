@@ -17,3 +17,31 @@ class Pesanan {
         this.jarak = jarak;
         this.totalHarga = totalHarga;
     }
+    public Restaurant getRestaurant() {
+        return restaurant;
+    }
+
+    public String getNamaMenuMakanan() {
+        return namaMenuMakanan;
+    }
+
+    public int getJumlahMakanan() {
+        return jumlahMakanan;
+    }
+
+    public String getNamaMenuMinuman() {
+        return namaMenuMinuman;
+    }
+
+    public int getJumlahMinuman() {
+        return jumlahMinuman;
+    }
+
+    public double getJarak() {
+        return jarak;
+    }
+
+    public double getTotalHarga() {
+        return totalHarga;
+    }
+}
