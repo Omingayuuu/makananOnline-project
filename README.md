@@ -23,7 +23,7 @@ Berikut merupakan output dari program ketika admin menghapus restoran:
 
 ![image](https://user-images.githubusercontent.com/113492364/232666004-7d38df09-61b3-494e-900f-786aae221f78.png)
 
-Di menu Login Ketika opsi Customer dipilih, program menampilkan menu Customer dengan tiga opsi: melihat restaurant, pesanan, dan melihat riwayat pesanan.
+Di menu Login Ketika opsi Customer dipilih, program menampilkan menu Customer dengan tiga opsi: melihat restaurant, pesanan, dan melihat riwayat pesanan:
 
 ![image](https://user-images.githubusercontent.com/113492364/232666047-60c57703-6045-4d7a-8b88-2de6131450fc.png)
 
@@ -31,7 +31,7 @@ Customer dapat memesan dengan memilih restaurant mana yang mereka inginkan:
 
 ![image](https://user-images.githubusercontent.com/113492364/232666076-f2539c39-fb57-4ea4-8032-b1021c26f583.png)
 
-Customer dapat memilih menu makanan, jumlah makanan yang dikalikan dengan harga satuan makanan tersebut begitupula dengan meniman.
+Customer dapat memilih menu makanan, jumlah makanan yang dikalikan dengan harga satuan makanan tersebut begitupula dengan meniman:
 
 ![image](https://user-images.githubusercontent.com/113492364/232666107-34615f12-b3cb-4752-b5ba-b57e80f3f3d0.png)
 
