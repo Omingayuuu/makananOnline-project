@@ -38,5 +38,8 @@ Customer dapat memilih menu makanan, jumlah makanan yang dikalikan dengan harga 
 Customer dapat mebuat pesanan dan melihat pesanan:
 
 ![image](https://user-images.githubusercontent.com/113492364/232666133-2c93c06f-4d06-4728-a7fb-0a9a50302ae2.png)
+
+UML (Unified Modelling Language) dari program yang saya jelaskan diatas:
+
 ![image](https://user-images.githubusercontent.com/113492364/232701461-54d8b5da-2e00-48e4-a355-9431a39e7cef.png)
 
