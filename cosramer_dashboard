@@ -1,9 +1,0 @@
-import javax.swing.*;
-public class customer_dashboard {
-    public class dashboard_customer {
-        private JPanel panel1;
-
-        public void setVisible(boolean b) {
-        }
-    }
-}
